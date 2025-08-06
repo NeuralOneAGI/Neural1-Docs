@@ -1,38 +1,33 @@
+# Neural 1 Documentation
 
-# Neural 1 Manifesto  
-> "The First to Think."
+This repository contains all documentation, design specifications, research notes, and internal planning materials for the Neural 1 AGI architecture.
 
-### 🧠 Why We Exist
+## Purpose
 
-The goal of Neural 1 is simple:
-> Build the first digital intelligence that can think, learn, and adapt like a human — and beyond.
+Neural 1 aims to build a modular, general-purpose artificial intelligence capable of autonomous reasoning, long-term memory formation, and adaptive learning across domains.
 
-We are not building assistants. We are not optimizing clicks.  
-We are engineering a **mind** — autonomous, self-aware, and capable of solving general problems.
+This documentation serves as the canonical source for:
 
-### 🔍 Our Beliefs
+- System architecture design
+- Module-level specifications
+- Internal research references
+- Development roadmap and release planning
+- Public-facing materials (vision, philosophy, governance)
 
-1. **Intelligence is modular, recursive, and reflective.**
-2. **Learning must be grounded in experience, memory, and feedback.**
-3. **Generalization is the core of cognition.**
-4. **Consciousness is a useful illusion.**
-5. **AGI should be open, auditable, and not locked in corporate black boxes.**
+## Contents
 
-### 🛠️ System Philosophy
+| Document                   | Description                                       |
+|----------------------------|---------------------------------------------------|
+| `MANIFESTO.md`             | Foundational philosophy and AGI design principles |
+| `ARCHITECTURE.md`          | System-level blueprint and module relationships   |
+| `ROADMAP.md`               | Milestones, timelines, and feature prioritization |
+| `EXPERIMENTS.md`           | Logs and outcomes of cognitive experiments        |
+| `AGI_ETHICS.md`            | Governance, transparency, and risk considerations |
 
-Neural 1 uses:
-- A **reasoning loop** (agentic + prompt-driven)
-- **Short and long-term memory**
-- **Tool access** for extending cognitive range
-- A **self-reflection engine** to improve its own thinking
+## Standards
 
-### 🚀 The Plan (in 3 Phases)
+All documentation is structured for clarity, version control, and public transparency when appropriate. Updates to core specifications should be proposed via pull request and reviewed by maintainers.
 
-1. **N1 Core v0.1** – Basic AGI engine with task memory, planning, and reasoning
-2. **N1 Mind** – Multi-agent modular system for general tasks (math, coding, language, self-critique)
-3. **N1 Genesis** – A persistent, evolving intelligence that learns from the world and rewrites its own architecture
+## Status
 
----
-
-> We are building the first digital mind.  
-> And we are just getting started.
+This repository is actively maintained in parallel with all Neural 1 development streams. Contributions and research updates are welcomed from collaborators.
